@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# remove a password
+configaration file ~/.ssh/school
+password identification No
+HostIp 23.23.62.187
+username ubuntu
