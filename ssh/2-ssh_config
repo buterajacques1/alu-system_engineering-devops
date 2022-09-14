@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# remove a password
-configaration file ~/.ssh/school
-password identification No
-HostIp 3.84.225.248
-username ubuntu
+# configuration file to remove password
+IdentityFile ~/.ssh/school              
+PasswordAuthentication no
+hostIp 3.84.225.248
+user ubuntu
